@@ -1,10 +1,7 @@
-
 import nltk
 import streamlit as st
 import speech_recognition as sr
 from nltk.chat.util import Chat, reflections
-
-
 
 # Assurez-vous que les ressources nécessaires sont téléchargées
 nltk.download('punkt')
